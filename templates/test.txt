@@ -6,5 +6,4 @@ Nonela from Aya's laptop
 
 
 
-Kevin test 
->>>>>>> 8472f55a4d8d32d4247e2875a66c600653d3f8cf
+Kevin delete 

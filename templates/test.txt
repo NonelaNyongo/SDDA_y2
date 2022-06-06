@@ -6,6 +6,11 @@ Nonela from Aya's laptop
 
 
 
+<<<<<<< HEAD
 Kevin test 
 >>>>>>> 
 
+=======
+Kevin delete 
+Kevin test2
+>>>>>>> 3f6c91fdb76e9ab0cdbb17daec3e88a18bb17f53
